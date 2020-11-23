@@ -4,9 +4,9 @@
 
 # News Explorer API
 
-#### Домен приложения: https://news.students.nomoreparties.space
-#### REST API: https://api.news.students.nomoreparties.space
-#### Публичный IP: 178.154.235.54
+#### Домен приложения: https://dipl.students.nomoreparties.space
+#### REST API: https://api.dipl.students.nomoreparties.space
+#### Публичный IP: 178.154.234.75
 
 ---
 
