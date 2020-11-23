@@ -10,7 +10,7 @@
 
 ---
 
-### Создание сервера для проекта [News Explorer API](https://github.com/Serebrovskiy/news-explorer-frontend) с использованием фреймворка Express (Node.js)
+### Создание сервера для проекта [News Explorer](https://github.com/Serebrovskiy/news-explorer-frontend) с использованием фреймворка Express (Node.js)
 
 
 ## Применяемые технологии
